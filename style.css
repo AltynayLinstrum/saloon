@@ -1,6 +1,7 @@
 *{
   margin: 0;
   padding: 0;
+  box-sizing: border-box;
 }
 #banner{
   background: url(images/interior.png);
@@ -142,13 +143,15 @@ nav ul li a{
 /* Calendar Table */
 #calendar-table {
   font-family: 'Rye', cursive;
-  margin: 10px;
+  margin: 10px auto;
+  max-width: 1200px;
 }
 
 td, th {
   border: 2px solid #DA8A67;
   text-align: center;
   padding: 8px;
+  width: 120px;
 }
 #calendar-caption{
   color: #DA8A67;
@@ -159,6 +162,9 @@ td, th {
   #calendar-table {
     flex-basis: 100%;
     font-size: 10px;
+  }
+  #table td th{
+    width: 16%;
   }
 } 
 

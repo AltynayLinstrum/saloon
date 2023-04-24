@@ -24,12 +24,12 @@
     <div id="sideNav">
       <nav>
         <ul>
-          <li><a href="#banner"><a href="">HOME</a></li>
-          <li><a href="#events">EVENTS</a></li>
-          <li><a href="#about">ABOUT</a></li>
-          <li><a href="#gallery">GALLERY</a></li>
-          <li><a href="#testimonials">TESTIMONIALS</a></li>
-          <li><a href="#footer">CONNECT</a></li>
+          <li><a href="#banner" onclick="menuButtonClick()">HOME</a></li>
+          <li><a href="#events" onclick="menuButtonClick()">EVENTS</a></li>
+          <li><a href="#about" onclick="menuButtonClick()">ABOUT</a></li>
+          <li><a href="#gallery" onclick="menuButtonClick()">GALLERY</a></li>
+          <li><a href="#testimonials" onclick="menuButtonClick()">TESTIMONIALS</a></li>
+          <li><a href="#footer" onclick="menuButtonClick()">CONNECT</a></li>
         </ul>
       </nav>
     </div>
@@ -249,7 +249,8 @@
 
       sideNav.style.right = "-250px";
 
-      menuBtn.onclick = function(){
+      
+      function menuButtonClick(){
         if(sideNav.style.right == "-250px"){
           sideNav.style.right="0";
           menu.src = "images/closeMenu.png";
@@ -257,8 +258,12 @@
         else{
           sideNav.style.right = "-250px";
           menu.src = "images/menu.png";
-        }
+        }  
       }
+
+      menuBtn.onclick = () => menuButtonClick();
+
+    
     </script>
     
    
