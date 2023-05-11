@@ -6,6 +6,8 @@
   <li>CSS: used for styling the website</li>
   <li>Google Fonts: used for importing custom fonts</li>
   <li>Font Awesome: used for importing icons</li>
+  <li>Midjourney: used for generating the cover image</li>
+  <li>ChapGPT: used for generating the content on the website
 </ul>
 <h3>Potential Future Improvements</h3>
 <p>Some potential improvements for future iterations of the website could include:</p>
