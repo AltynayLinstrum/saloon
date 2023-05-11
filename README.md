@@ -9,7 +9,7 @@
   <li>Midjourney: used for generating the cover image</li>
   <li>ChapGPT: used for generating the content on the website
 </ul>
-<h3>Potential Future Improvements</h3>
+<h3>Future Improvements</h3>
 <p>Some potential improvements for future iterations of the website could include:</p>
 <ul>
   <li>Adding more information about the history of The Saloon</li>
