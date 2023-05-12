@@ -17,4 +17,5 @@
   <li>Creating a contact form for booking inquiries</li>
   <li>Adding a map and directions to the bar</li>
   <li>Optimizing the website for better performance and faster load times</li>
+  <li>Building a mini CMS with admin access for handling schedule changes and saving previous data</li>
 </ul>
