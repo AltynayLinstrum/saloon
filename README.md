@@ -1,5 +1,5 @@
 <h3>The Saloon Website</h3>
-<p>This is an alternative version for <a href="https://www.sfblues.net/Saloon.html">The Saloon</a> website. The Saloon is one of my most favorite places ever! It is also the oldest blues music bar in San Francisco. The wensite is completely responsive and provides information about the bar, its events, and its history.</p>
+<p>This is an alternative version for <a href="https://www.sfblues.net/Saloon.html">The Saloon</a> website. The Saloon is one of my most favorite places ever! It is also the oldest blues music bar in San Francisco. The website is completely responsive and provides information about the bar, its events, and its history.</p>
 <h3>Technologies/Libraries Used</h3>
 <ul>
   <li>HTML: used for creating the content and structure of the website</li>
