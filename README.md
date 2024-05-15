@@ -5,10 +5,10 @@
 <li>HTML</li> 
 <li>CSS (including responsive design and layout)</li>
 <li>JavaScript for interactive elements like the mobile navigation menu</li>
-<li>MidJourney for customizing the images</li>
+<li>Midjourney for customizing the images</li>
 
 <h3>Future Improvements</h3>
-<li> Dynamic Content: Integrate a content management system (CMS) to update events, testimonials, and gallery items dynamically.</li>
+<li><bold> Dynamic Content:</bold> Integrate a content management system (CMS) to update events, testimonials, and gallery items dynamically.</li>
 <li> Performance Optimization: Improve loading times by optimizing images and scripts, potentially leveraging lazy loading techniques.</li>
 <li>SEO Optimization: Enhance search engine optimization (SEO) by optimizing meta tags, improving page titles, and adding structured data to improve visibility in search engine results.</li>
 
